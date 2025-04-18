@@ -19,9 +19,21 @@ Sou movido por desafios que me tiram da zona de conforto. Acredito que o código
 
 ## 🛠️ Tecnologias que domino
 
-- **Backend:** PHP, Laravel, Node.js, MySQL, APIs REST
-- **Frontend:** JavaScript, React.js, jQuery
-- **Frameworks & Ferramentas:** ASP.NET, Entity Framework, Git, Docker
+<div align="center">
+  
+  ### ⚙️ Backend
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" />
+
+  ### 🎨 Frontend
+  <img src="https://skillicons.dev/icons?i=js,react,jquery" />
+
+  ### 🧰 Ferramentas & Frameworks
+  <img src="https://skillicons.dev/icons?i=git,docker,visualstudio" />
+  <br />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" />
+  
+</div>
 
 ---
 
