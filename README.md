@@ -23,6 +23,8 @@ Sou movido por desafios que me tiram da zona de conforto. Acredito que o código
   
   ### ⚙️ Backend
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" />
+  <br />
+  <img src="https://img.shields.io/badge/Fastify-20232a?style=for-the-badge&logo=fastify&logoColor=white" />
 
   ### 🎨 Frontend
   <img src="https://skillicons.dev/icons?i=js,react,jquery" />
@@ -34,6 +36,7 @@ Sou movido por desafios que me tiram da zona de conforto. Acredito que o código
   <img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" />
   
 </div>
+
 
 ---
 
@@ -64,12 +67,23 @@ Desenvolvedor Full Stack | Jul/2021 - Atualmente
 
 ---
 
-## 📬 Vamos conversar?
-
-📧 aryssonmenezes@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/arysson-menezes-dev)
-
 ---
+
+## 📁 Sobre meus repositórios
+
+Grande parte dos projetos que desenvolvi ao longo dos últimos anos foram feitos dentro de empresas privadas, com código fechado por questões estratégicas e contratuais.
+
+🛠️ Por isso, meu GitHub ainda está em fase de construção pública — estou trabalhando para transformar minha experiência em soluções e projetos abertos, que representem minha forma de pensar, codar e resolver problemas.
+
+🔜 Em breve, você verá por aqui cases reais, repositórios mais robustos e projetos pessoais que estou desenvolvendo para compor meu portfólio.
+
+> Meu foco não é quantidade de repositórios, mas qualidade, propósito e impacto do que compartilho.
+
+
+
+📬 Vamos conversar?
+
+<details> <summary>📊 GitHub Stats (clique para ver)</summary> <br /> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aryssonmenezes&show_icons=true&theme=tokyonight" alt="stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryssonmenezes&theme=tokyonight" alt="streak" /> </div> </details>
 
 > “Mais do que códigos bem escritos, meu foco é criar soluções úteis, escaláveis e que realmente façam diferença.”
 
