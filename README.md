@@ -346,7 +346,7 @@ Script Node.js para detectar arquivos duplicados — nascido de necessidade real
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arysson-menezes)
+[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arysson-menezes-dev/)
 
 <br/>
 
