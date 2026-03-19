@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arysson-menezes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arysson-menezes-dev/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-arysson5-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arysson5)
 &nbsp;
